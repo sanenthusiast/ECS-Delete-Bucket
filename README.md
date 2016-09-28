@@ -1,6 +1,8 @@
 # ECS-Eraser
 Script to delete buckets and everything inside the specified bucket. At present it is not possible to delete the folders inside buckets. That functionality will added soon.
 
+# >This script is highly destructive. Please excercise extreme caution.
+
 #Requirements
 Python 3.x
 boto3
